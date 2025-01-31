@@ -1,6 +1,6 @@
 print("hello world")
 print("i love cmsc 23 <333")
-
+print("i hate mobile dev")
 """
 PS C:\Users\User\Desktop\sabandal> git init
 Initialized empty Git repository in C:/Users/User/Desktop/sabandal/.git/
