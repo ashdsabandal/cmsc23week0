@@ -1,5 +1,6 @@
 print("hello world")
 print("i love cmsc 23 <333")
+print("i love mobile dev")
 
 """
 PS C:\Users\User\Desktop\sabandal> git init
